@@ -13,8 +13,8 @@
  * link:https://github.com/aalmiray/clirr-gradle-plugin[clirr] - The clirr-gradle-plugin enables the usage of Clirr to calculate the binary compatibility between 2 releases.
  * link:https://github.com/robfletcher/gradle-compass[compass] - A SASS / Compass plugin for Gradle.
  * link:https://github.com/kt3k/coveralls-gradle-plugin[coveralls] - Send coverage data to coveralls.io.
- * link:https://github.com/spring-gradle-plugins/dependency-management-plugin[dependency-management] - A Gradle plugin that provides Maven-like dependency management functionality.
  * link:https://github.com/eriwen/gradle-css-plugin[css] - Gradle plugin for working with CSS.
+  * link:https://github.com/spring-gradle-plugins/dependency-management-plugin[dependency-management] - A Gradle plugin that provides Maven-like dependency management functionality.
  * link:https://github.com/ajoberstar/gradle-git[git] - Git plugin for Gradle.
  * link:https://github.com/bmuschko/gradle-izpack-plugin[izpack] - Gradle plugin that provides support for packaging applications for the Java platform via IzPack.
  * link:https://github.com/bmuschko/gradle-java2html-plugin[java2html] - Gradle plugin for turning source code into HTML, RTF, TeX and XHTML using Java2HTML.
