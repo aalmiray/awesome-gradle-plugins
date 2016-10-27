@@ -57,7 +57,7 @@
  * link:https://twitter.com/madmas[@madmas] - Markus Schlichting
  * link:https://twitter.com/tobias_schulte[@tobias_schulte] - Tobias Schulte
  * link:https://twitter.com/NoamTenne[@NoamTenne] - Noam Tenne
- * link:https://twitter.com/DVyazelenko[DVyazelenko] - Dmitry Vyazelenko
+ * link:https://twitter.com/DVyazelenko[@DVyazelenko] - Dmitry Vyazelenko
  * link:https://twitter.com/eriwen[@eriwen] - Eric Wendelin
  * link:https://twitter.com/ankinson[@ankinson] - Andy Wilkinson
  * link:https://github.com/szpak[@szpak]- Marcin Zajączkowski 
