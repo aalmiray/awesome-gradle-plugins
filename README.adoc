@@ -1,0 +1,63 @@
+= Awesome Gradle Plugins image:https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg[https://github.com/aalmiray/awesome-gradle-plugins]
+
+== Table of Contents
+
+ * <<_plugins,Plugins>>
+ * <<_authors,Authors>>
+
+[[_plugins]]
+== Plugins
+
+ * link:https://github.com/asciidoctor/asciidoctor-gradle-plugin[asciidoctor] - A Gradle plugin that uses Asciidoctor via JRuby to process AsciiDoc source files within the project.
+ * link:https://github.com/bintray/gradle-bintray-plugin[bintray] - The Gradle Bintray Plugin allows you to publish artifacts to Bintray.
+ * link:https://github.com/aalmiray/clirr-gradle-plugin[clirr] - The clirr-gradle-plugin enables the usage of Clirr to calculate the binary compatibility between 2 releases.
+ * link:https://github.com/robfletcher/gradle-compass[compass] - A SASS / Compass plugin for Gradle.
+ * link:https://github.com/kt3k/coveralls-gradle-plugin[coveralls] - Send coverage data to coveralls.io.
+ * link:https://github.com/spring-gradle-plugins/dependency-management-plugin[dependency-management] - A Gradle plugin that provides Maven-like dependency management functionality.
+ * link:https://github.com/eriwen/gradle-css-plugin[css] - Gradle plugin for working with CSS.
+ * link:https://github.com/ajoberstar/gradle-git[git] - Git plugin for Gradle.
+ * link:https://github.com/bmuschko/gradle-izpack-plugin[izpack] - Gradle plugin that provides support for packaging applications for the Java platform via IzPack.
+ * link:https://github.com/bmuschko/gradle-java2html-plugin[java2html] - Gradle plugin for turning source code into HTML, RTF, TeX and XHTML using Java2HTML.
+ * link:https://bitbucket.org/shemnon/javafx-gradle[javafx] - This plugin will ultimately provide gradle build tasks for the JavaFX Deployment tools in the Java 7 JDK.
+ * link:https://bitbucket.org/javafxports/javafxmobile-plugin[javafx-mobile] - The javafxmobile-plugin is a gradle plugin that unifies the building of JavaFX applications for three different target platforms: desktop, android, iOS.
+ * link:https://github.com/jbake-org/jbake-gradle-plugin[jbake] - A Gradle plugin for JBake.
+ * link:https://github.com/melix/jmh-gradle-plugin[jmh] - Integrates the JMH benchmarking framework with Gradle.
+ * link:https://github.com/tschulte/gradle-jnlp-plugin[jnlp] - Gradle plugin to generate jnlp files, sign jars etc. for being able to start an application with Java Webstart.
+ * link:https://github.com/jruby-gradle/jruby-gradle-plugin[jruby] - A Gradle plugin for working with JRuby projects for fun and profit. Mostly profit.
+ * link:https://github.com/eriwen/gradle-js-plugin[js] - Gradle plugin for working with JS.
+ * link:https://github.com/pledbrook/lazybones/tree/master/lazybones-gradle-plugin[lazybones] - Lazybones templates publishing tool.
+ * link:https://github.com/hierynomus/license-gradle-plugin[license] - Manage your license(s).
+ * link:https://github.com/cr0/gradle-macappbundle-plugin[macappbundle] - Create OS X application bundles from Java projects using gradle.
+ * link:https://github.com/aalmiray/markdown-gradle-plugin[markdown] - This plugin provides a facility for converting markdown into HTML, as well as converting HTML back into markdown.
+ * link:https://github.com/bmuschko/gradle-nexus-plugin[nexus] - Gradle plugin for configuring and uploading artifacts to Sonatype Nexus.
+ * link:https://github.com/szpak/gradle-pitest-plugin[pitest] - Gradle plugin for PIT Mutation Testing.
+ * link:https://github.com/johnrengelman/shadow[shadow] - Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.
+ * link:http://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner+for+Gradle[sonarqube-gradle-plugin] - The SonarQube Scanner for Gradle provides an easy way to start SonarQube analysis of a Gradle project.
+ * link:https://github.com/aalmiray/stats-gradle-plugin[stats] - A Gradle plugin for counting lines of code in the same fashion as the griffon stats command.
+ * link:https://github.com/nemerosa/versioning[versioning] - Gradle plug-in to generate version information from the SCM branch (Git or Svn).
+ * link:https://github.com/ben-manes/gradle-versions-plugin[versions] - Gradle plugin to discover dependency updates.
+
+[[_authors]]
+== Authors
+
+ * link:https://twitter.com/mojavelinux[@mojavelinux] - Dan Allen
+ * link:https://twitter.com/aalmiray[@aalmiray] - Andres Almiray
+ * link:https://twitter.com/CedricChampeau[@CedricChampeau] - Cedric Champeau
+ * link:https://twitter.com/DamienCoraboeuf[@DamienCoraboeuf] - Damien Coraboeuf
+ * link:https://twitter.com/ysb33r[@ysb33r] - Schalk Cronjé
+ * link:https://twitter.com/johnrengelman[@johnrengelman] - John Engelman
+ * link:https://twitter.com/hierynomus[@hierynomus] - Jeroen van Erp
+ * link:https://twitter.com/rfletcherew[@rfletcherew] - Robert Fletcher
+ * link:https://twitter.com/kt3k[@kt3k] - Yoshiya Hinosawa
+ * link:https://twitter.com/pledbrook[@pledbrook] - Peter Ledbrook
+ * link:https://github.com/ben-manes[@ben-manes] - Ben Manes
+ * link:https://twitter.com/bmuschko[@bmuschko] - Benjamin Muschko
+ * link:https://twitter.com/ajoberstar[@ajoberstar] - Andrew Oberstar
+ * link:https://github.com/cr0[@cr0] - Christian Roth
+ * link:https://twitter.com/madmas[@madmas] - Markus Schlichting
+ * link:https://twitter.com/tobias_schulte[@tobias_schulte] - Tobias Schulte
+ * link:https://twitter.com/NoamTenne[@NoamTenne] - Noam Tenne
+ * link:https://twitter.com/DVyazelenko[DVyazelenko] - Dmitry Vyazelenko
+ * link:https://twitter.com/eriwen[@eriwen] - Eric Wendelin
+ * link:https://twitter.com/ankinson[@ankinson] - Andy Wilkinson
+ * link:https://github.com/szpak[@szpak]- Marcin Zajączkowski 
