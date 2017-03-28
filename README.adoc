@@ -8,6 +8,7 @@
 [[_plugins]]
 == Plugins
 
+ * link:https://github.com/tbroyer/gradle-apt-plugin[apt] - Gradle plugin making it easier/safer to use Java annotation processors.
  * link:https://github.com/asciidoctor/asciidoctor-gradle-plugin[asciidoctor] - A Gradle plugin that uses Asciidoctor via JRuby to process AsciiDoc source files within the project.
  * link:https://github.com/bintray/gradle-bintray-plugin[bintray] - The Gradle Bintray Plugin allows you to publish artifacts to Bintray.
  * link:https://github.com/aalmiray/clirr-gradle-plugin[clirr] - The clirr-gradle-plugin enables the usage of Clirr to calculate the binary compatibility between 2 releases.
@@ -42,6 +43,7 @@
 
  * link:https://twitter.com/mojavelinux[@mojavelinux] - Dan Allen
  * link:https://twitter.com/aalmiray[@aalmiray] - Andres Almiray
+ * link:https://twitter.com/tbroyer[@tbroyer] - Thomas Broyer
  * link:https://twitter.com/CedricChampeau[@CedricChampeau] - Cedric Champeau
  * link:https://twitter.com/DamienCoraboeuf[@DamienCoraboeuf] - Damien Coraboeuf
  * link:https://twitter.com/ysb33r[@ysb33r] - Schalk Cronjé
