@@ -22,6 +22,7 @@
  * link:https://bitbucket.org/shemnon/javafx-gradle[javafx] - This plugin will ultimately provide gradle build tasks for the JavaFX Deployment tools in the Java 7 JDK.
  * link:https://bitbucket.org/javafxports/javafxmobile-plugin[javafx-mobile] - The javafxmobile-plugin is a gradle plugin that unifies the building of JavaFX applications for three different target platforms: desktop, android, iOS.
  * link:https://github.com/jbake-org/jbake-gradle-plugin[jbake] - A Gradle plugin for JBake.
+ * link:https://github.com/aalmiray/jdeps-gradle-plugin[jdeps] - Run JDeps on a Gradle build.
  * link:https://github.com/melix/jmh-gradle-plugin[jmh] - Integrates the JMH benchmarking framework with Gradle.
  * link:https://github.com/tschulte/gradle-jnlp-plugin[jnlp] - Gradle plugin to generate jnlp files, sign jars etc. for being able to start an application with Java Webstart.
  * link:https://github.com/jruby-gradle/jruby-gradle-plugin[jruby] - A Gradle plugin for working with JRuby projects for fun and profit. Mostly profit.
