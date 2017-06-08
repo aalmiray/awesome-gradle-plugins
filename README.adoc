@@ -32,6 +32,7 @@
  * link:https://github.com/cr0/gradle-macappbundle-plugin[macappbundle] - Create OS X application bundles from Java projects using gradle.
  * link:https://github.com/aalmiray/markdown-gradle-plugin[markdown] - This plugin provides a facility for converting markdown into HTML, as well as converting HTML back into markdown.
  * link:https://github.com/bmuschko/gradle-nexus-plugin[nexus] - Gradle plugin for configuring and uploading artifacts to Sonatype Nexus.
+ * link:https://github.com/OSSIndex/ossindex-gradle-plugin[ossindex] - Audits a gradle project using the link:https://ossindex.net/[OSS Index REST API v2.0] to identify known vulnerabilities in its dependencies..
  * link:https://github.com/szpak/gradle-pitest-plugin[pitest] - Gradle plugin for PIT Mutation Testing.
  * link:https://github.com/johnrengelman/shadow[shadow] - Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.
  * link:http://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner+for+Gradle[sonarqube] - The SonarQube Scanner for Gradle provides an easy way to start SonarQube analysis of a Gradle project.
