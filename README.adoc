@@ -18,6 +18,7 @@
   * link:https://github.com/spring-gradle-plugins/dependency-management-plugin[dependency-management] - A Gradle plugin that provides Maven-like dependency management functionality.
  * link:https://github.com/ajoberstar/gradle-git[git] - Git plugin for Gradle.
  * link:https://github.com/bmuschko/gradle-izpack-plugin[izpack] - Gradle plugin that provides support for packaging applications for the Java platform via IzPack.
+ * link:https://github.com/palantir/gradle-jacoco-coverage[jacoco-coverage] - Gradle plugin to configure minimum Java Code Coverage thresholds and generate combined coverage report for subprojects
  * link:https://github.com/bmuschko/gradle-java2html-plugin[java2html] - Gradle plugin for turning source code into HTML, RTF, TeX and XHTML using Java2HTML.
  * link:https://bitbucket.org/shemnon/javafx-gradle[javafx] - This plugin will ultimately provide gradle build tasks for the JavaFX Deployment tools in the Java 7 JDK.
  * link:https://bitbucket.org/javafxports/javafxmobile-plugin[javafx-mobile] - The javafxmobile-plugin is a gradle plugin that unifies the building of JavaFX applications for three different target platforms: desktop, android, iOS.
